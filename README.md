@@ -1,4 +1,4 @@
-gmail-app
-=========
+## Google+ PHP Quickstart
 
-sample gmail application 
+The instructions for getting started are available at:
+https://developers.google.com/+/quickstart/php

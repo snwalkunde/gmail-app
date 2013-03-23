@@ -1,1 +1,1 @@
-<?php print "It Works 2"; ?>
+cd <?php print "It Works 2"; ?>
